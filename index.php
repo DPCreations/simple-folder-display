@@ -8,8 +8,10 @@
     </head>
 
     <body>
-        <div class="folders flex flex-wrap">
-            <?php render(); ?>
+        <div class="app">
+            <div class="flex flex-wrap items-center h-25">
+                <?php render(); ?>
+            </div>
         </div>
     </body>
 </html>
