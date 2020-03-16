@@ -1,0 +1,6 @@
+<?php
+    $name = "Directory";
+    $directory = "/var/dir"; //The directory to show
+    $excludes = array('.', '..'); //the folder names that should be excluded
+    $prepend = "http://"
+    $append = ".dev"
